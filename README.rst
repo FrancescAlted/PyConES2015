@@ -1,11 +1,12 @@
-Notebooks and other materials for the EuroPython 2015 tutorial
-==============================================================
+Notebooks and other materials for the PyConES 2015 tutorial
+===========================================================
 
-Here are my materials for the tutorial on Wed 22, 2015 in EuroPython 2015.
+Here are my materials for the tutorial on Friday 20, November 2015 in
+PyConES 2015.
 
 You can get the latest release of the materials here:
 
-https://github.com/FrancescAlted/EuroPython2015/releases
+https://github.com/FrancescAlted/PyConES2015/releases
 
 Also, make sure that you have the next Python packages installed:
 
