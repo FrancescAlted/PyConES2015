@@ -11,10 +11,13 @@ https://github.com/FrancescAlted/PyConES2015/releases
 Also, make sure that you have the next Python packages installed:
 
 * numpy
+* numexpr
 * pandas
 * bcolz
 * tables (pytables)
 * matplotlib
+* psutil
+* memory_profiler
 * ipython_memwatcher
 
 I recommend to use Anaconda to install most of the packages above, and for
